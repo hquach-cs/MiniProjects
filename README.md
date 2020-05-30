@@ -1,4 +1,4 @@
-# Neural Network Simples Projects
+# Neural Network Mini Projects
 
 This repository showcase simple machine learning/neuralnetwork projects. Projects are:
 1. Simple linear regression
